@@ -1,4 +1,10 @@
-/* Script to redirect browser to https */
+/* Script to redirect browser to https
+
+To reference this javascript file use the following in the <head> of your webpages
+
+<script src="./redirectToHttps.js"></script> 
+
+*/
 
 function redirectToHttps() {
         if (window.location.protocol != "https:") {
