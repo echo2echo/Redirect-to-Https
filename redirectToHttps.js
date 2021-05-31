@@ -4,6 +4,6 @@ function redirectToHttps() {
             var newURL = "https://" + oldURL;
             window.location = newURL;
          }
-    }
+}
 
 redirectToHttps();
