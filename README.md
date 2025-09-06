@@ -1,8 +1,8 @@
 # Redirect-to-Https
-    
-This is code to redirect web page traffic from http to https ( secure web )
 
 Recent versions of Apache and Let's Encrypt redirect to https automatically making this script unnecessary.
+
+This is code to redirect web page traffic from http to https ( secure web )
  
 To reference this javascript file use the following in the head of your webpages
 
