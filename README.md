@@ -1,6 +1,6 @@
 # Redirect-to-Https
 
-Recent versions of Apache and Let's Encrypt redirect to https automatically making this script unnecessary.
+Recent versions of Apache, Nginx and Let's Encrypt redirect to https automatically making this script unnecessary.
 If Apache / Nginx is not redirecting to https try this script.
 
 This is code to redirect web page traffic from http to https ( secure web )
